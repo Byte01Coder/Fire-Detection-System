@@ -10,6 +10,13 @@ Image & Video Support – Upload images or videos to scan for fire automatically
 Instant Alerts – Triggers a loud alarm when fire is detected.  
 Interactive UI – Built with Streamlit for a clean and user-friendly experience.  
 
+Dataset  
+The project uses data collected from the following sources:  
+
+1. https://www.kaggle.com/datasets/amerzishminha/forest-fire-smoke-and-non-fire-image-dataset   
+2. https://www.kaggle.com/datasets/phylake1337/fire-dataset  
+3. https://www.kaggle.com/datasets/rachadlakis/firedataset-jpg-224  
+
 # Contact
 
 Project developed by:  
