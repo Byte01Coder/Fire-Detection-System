@@ -11,6 +11,7 @@ Instant Alerts – Triggers a loud alarm when fire is detected.
 Interactive UI – Built with Streamlit for a clean and user-friendly experience.  
 
 Dataset  
+
 The project uses data collected from the following sources:  
 
 1. https://www.kaggle.com/datasets/amerzishminha/forest-fire-smoke-and-non-fire-image-dataset   
