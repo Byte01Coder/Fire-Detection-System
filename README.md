@@ -5,10 +5,10 @@ The Fire Detection System is an AI-based application that identifies fire in ima
 
 Key Features
 
-Real-time Detection – Uses a CNN model to detect fire with high accuracy.
-Image & Video Support – Upload images or videos to scan for fire automatically.
-Instant Alerts – Triggers a loud alarm when fire is detected.
-Interactive UI – Built with Streamlit for a clean and user-friendly experience.
+Real-time Detection – Uses a CNN model to detect fire with high accuracy.  
+Image & Video Support – Upload images or videos to scan for fire automatically.  
+Instant Alerts – Triggers a loud alarm when fire is detected.  
+Interactive UI – Built with Streamlit for a clean and user-friendly experience.  
 
 # Contact
 
